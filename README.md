@@ -1,1 +1,1 @@
-XCODE-Allen-GitHub_followers
+Code from Sean Alllen's course "GitHub Followers - Take Home Project"
