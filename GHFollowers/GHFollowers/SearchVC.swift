@@ -31,6 +31,8 @@ class SearchVC: UIViewController {
   }
   
   
+  
+  
   func configureLogoImageView() {
     view.addSubview(logoImageView)
     logoImageView.translatesAutoresizingMaskIntoConstraints = false
